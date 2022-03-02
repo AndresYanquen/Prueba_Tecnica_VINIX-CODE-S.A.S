@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+header{
+    background-color:#171714 ;
+    color: white;
+}
+
+header .container{
+    width: 100%;
+    height: 100px;
+}
+
+header .row{
+    height: 100%;
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+#author-class{
+    font-size: 1.5rem;
+}
